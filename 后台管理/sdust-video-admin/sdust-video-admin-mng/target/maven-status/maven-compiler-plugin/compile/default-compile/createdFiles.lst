@@ -1,0 +1,6 @@
+com\imooc\Test.class
+com\imooc\interceptor\LoginInterceptor.class
+com\imooc\controller\Hello.class
+com\imooc\bean\AdminUser.class
+com\imooc\controller\VideoController.class
+com\imooc\controller\UserController.class
